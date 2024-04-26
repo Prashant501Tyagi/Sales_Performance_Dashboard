@@ -2,7 +2,7 @@
 
 
 
-![Dashboard Screenshot](Screenshot 2024-04-26 145036.png)
+![Dashboard Screenshot]([Screenshot 2024-04-26 145036.png](https://github.com/Prashant501Tyagi/Sales_Performance_Dashboard/blob/main/Screenshot%202024-04-26%20145036.png))
 
 ## Overview
 
