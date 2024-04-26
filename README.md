@@ -4,6 +4,9 @@
 
 ![Alt text](https://github.com/Prashant501Tyagi/Sales_Performance_Dashboard/blob/main/Screenshot%202024-04-26%20145036.png)
 
+![Alt text](https://github.com/Prashant501Tyagi/Sales_Performance_Dashboard/blob/main/Screenshot%202024-04-26%20150226.png)
+
+
 ## Overview
 
 This repository showcases a powerful and visually appealing Sales Performance Dashboard built using Power BI. The dashboard provides a comprehensive view of key sales metrics, allowing users to gain valuable insights and make data-driven decisions.
